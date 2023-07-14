@@ -12,3 +12,11 @@ if asked to add angular routing: choose no
 ng cd create-new-app
 
 ng serve - to open app
+
+TypeScript 
+- ts has more features than vanilla JS
+-compiled into JS and JS is run into the browser, not ts
+
+
+npm install --save bootstrap
+
