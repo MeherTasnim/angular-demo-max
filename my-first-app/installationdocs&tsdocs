@@ -20,3 +20,23 @@ TypeScript
 
 npm install --save bootstrap
 
+Angular in the end is a JS framework,changing your DOM(html) at runtime!
+
+
+Components:
+root component is AppComponent
+
+reusable, very easy to update
+
+Creating a component:
+all components will be added to app.component.html because that's the root component file
+
+each component should have its own folder and name should be same as component
+
+a component is simply a class so that angular can instantiate it
+
+
+module is used to bundle packages. AppModule is in this case- it's a bundle of functionality of our app. it gives angular info which features does my app have and use, such as using @NgModule decorator
+
+
+
