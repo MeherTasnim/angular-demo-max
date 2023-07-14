@@ -49,4 +49,7 @@ component.specs.ts - used for testing
 
 all new components selectors are used in app.component.html since it's the root component html file
 
+for template(html), you don't need array but for 
+style or styleUrl-you need an array. Use either style or styleUrl.
 
+So you only have one template(html) but you may have multiple style or style definitions
