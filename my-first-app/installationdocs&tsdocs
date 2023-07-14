@@ -38,5 +38,12 @@ a component is simply a class so that angular can instantiate it
 
 module is used to bundle packages. AppModule is in this case- it's a bundle of functionality of our app. it gives angular info which features does my app have and use, such as using @NgModule decorator
 
+broswermodule gives all base functionality needed to start our app
 
+use selector of components to add to app.component.html
+
+ng generate component component-name
+ng g c component-name
+
+component.specs.ts - used for testing
 
