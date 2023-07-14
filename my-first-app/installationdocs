@@ -1,0 +1,14 @@
+to install and create angular:
+
+npm install -g @angular/cli
+
+to create app: 
+ng new create-new-app --no-strict 
+
+--no-strict is used 
+
+if asked to add angular routing: choose no
+
+ng cd create-new-app
+
+ng serve - to open app
