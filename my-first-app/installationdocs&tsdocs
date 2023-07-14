@@ -53,3 +53,6 @@ for template(html), you don't need array but for
 style or styleUrl-you need an array. Use either style or styleUrl.
 
 So you only have one template(html) but you may have multiple style or style definitions
+
+selector: it has to be unique. you can select element by element itself or by adding square bracket to make it attribute and then using in html app component. So either use it by selecting element itself or by making it attribute.
+Another way to use selector is by class and use as class in html file
