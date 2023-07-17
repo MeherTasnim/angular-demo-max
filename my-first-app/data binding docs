@@ -16,3 +16,5 @@ String interpolation:
 can't write block expression such as if else but can use ternary operator 
 
 has to get a string in the end
+
+Property binding: 
