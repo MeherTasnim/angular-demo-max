@@ -27,3 +27,7 @@ don't mix the two
 
 event binding:
 
+two-way-binding:
+FormsModule is required
+
+combine property and event binding
