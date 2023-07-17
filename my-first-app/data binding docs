@@ -24,3 +24,6 @@ when you want to output sth in your template, print some text to it, use string 
 if you want to change some property, be that of html element or directive or componenet, use property binding
 
 don't mix the two
+
+event binding:
+
