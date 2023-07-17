@@ -18,3 +18,9 @@ can't write block expression such as if else but can use ternary operator
 has to get a string in the end
 
 Property binding: 
+
+string interpolation vs property binding:
+when you want to output sth in your template, print some text to it, use string interpolation. 
+if you want to change some property, be that of html element or directive or componenet, use property binding
+
+don't mix the two
