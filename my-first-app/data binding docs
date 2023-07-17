@@ -1,0 +1,18 @@
+databinding = communication
+
+communication btw ts code of componenents(business logic) and template(html): which is what the user sees
+
+output data from ts to html(template): one direction to html template
+string interpolation ({{data}})
+property binding ([property]="data)
+
+html (template) react to (user) events : other direction to ts code
+event binding((event)="expression")
+
+combination of both: two-way-binding([(ngModel)]="data")- does both of the above directions' work
+
+
+String interpolation:
+can't write block expression such as if else but can use ternary operator 
+
+has to get a string in the end
